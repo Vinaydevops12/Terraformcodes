@@ -1,5 +1,0 @@
-location = "eastus"
-rgname = "rgcode"
-subnet_name = "codesunet1"
-nsg = "vinaynsg"
-vnet = "codevnet1"

@@ -1,3 +1,0 @@
-variable "vnet_peering" {
-
-}
